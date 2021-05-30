@@ -2,7 +2,7 @@
 
 I have used Python 3.x version on Google Colaboratory.
 
-Problem Statement
+Problem Statement:
 In a given Text Document, Client want to search for a particular string/sentence, once the string is found replace the next coming strings of that string.
 
 Steps to Follow
