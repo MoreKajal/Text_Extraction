@@ -1,11 +1,11 @@
 # Text_Extraction
 
 I have used Python 3.x version on Google Colaboratory.
-**
-Problem Statement**
+
+Problem Statement
 In a given Text Document, Client want to search for a particular string/sentence, once the string is found replace the next coming strings of that string.
 
-**Steps to Follow**
+Steps to Follow
 1. Open and read the .txt file available.
 2. Print the present content of that file.
 3. Search for a particular string using find().
